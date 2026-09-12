@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu Sep 10 20:01:55 2026
+[*]
+[dumpfile] "sim/xor.vcd"
+[dumpfile_mtime] "Thu Sep 10 19:58:00 2026"
+[dumpfile_size] 724
+[savefile] "sim/xor_test_waveform_1.gtkw"
+[timestart] 0
+[size] 1242 600
+[pos] -1 -1
+*-13.500000 18 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] xor_tb.
+[sst_width] 297
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+xor_tb.dut.a
+xor_tb.dut.b
+xor_tb.dut.not_a
+xor_tb.dut.not_b
+@29
+xor_tb.dut.y
+[pattern_trace] 1
+[pattern_trace] 0

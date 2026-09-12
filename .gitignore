@@ -1,0 +1,6 @@
+# Icarus Verilog / simulation build artifacts
+sim/*.vvp
+sim/*.vcd
+sim/*.log
+
+# keep GTKWave save files (sim/*.gtkw) — they are hand-authored
